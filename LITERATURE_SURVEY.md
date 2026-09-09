@@ -1,4 +1,4 @@
-Literature & SOTA Survey
+# Literature & SOTA Survey
 
 Organized around why demonstration quality matters, what the closest existing system does (and doesn't) diagnose, and the infrastructure this project's ablation study builds on. Papers are all from the last 1–3 years (with one classic exception, DART, kept because it is the direct methodological ancestor of this project's design), per the assignment requirement.
 
