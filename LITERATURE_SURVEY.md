@@ -20,21 +20,3 @@ Where the gap is
 
 DQAF establishes that demonstration quality is a real, measurable bottleneck, and the covariate-shift theory explains mechanistically why quality (not just quantity) drives policy reliability — but neither isolates which teleoperation-pipeline factor is responsible, because real recorded sessions confound latency, sensing noise, occlusion, and operator skill simultaneously with no ground-truth label separating them. DART shows controlled noise injection is a viable experimental design, but only for generic, undifferentiated noise, not a comparison across named, realistic corruption sources. Nobody has run a controlled, per-factor, graded-severity ablation — using simulation's ability to inject exactly one factor at a time and hold everything else fixed — to produce a ranked, causal answer to "which specific teleoperation weakness should a team fix first." That ranked, causal picture is this project's specific, previously unmeasured contribution.
 
-Rewrite README.md for BEV corruption×compression topic
-Rewrite LITERATURE_SURVEY.md
-Rewrite NOVELTY_AUDIT.md
-Rewrite build_proposal.js and regenerate PROJECT_PROPOSAL.docx
-Send updated files and draft team talking points
-Rewrite README.md for humanoid teleoperation data-quality ablation
-Rewrite LITERATURE_SURVEY.md for teleoperation data-quality topic
-Rewrite NOVELTY_AUDIT.md for teleoperation data-quality topic
-Rewrite build_proposal.js and regenerate docx
-Send updated deliverables
-LITERATURE_SURVEY.md
-README.md
-PROJECT_PROPOSAL.docx
-NOVELTY_AUDIT.md
-Connectors
-Web search
-Skills
-Create a skill for this kind of task
