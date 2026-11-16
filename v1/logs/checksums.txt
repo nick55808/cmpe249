@@ -1,0 +1,46 @@
+# Collected 2026-11-16 22:47:42 UTC on brev-8rdmbghe0
+# Training run folder: logs/robomimic/Isaac-PickPlace-GR1T2-Abs-v0/bc_rnn_low_dim_gr1t2/20261114225335/
+
+## File timestamps (as written by the runs)
+-rw-r--r-- 1 ubuntu ubuntu    908795 2026-06-02 23:57:23.000000000 +0000 datasets/dataset_annotated_gr1.hdf5
+-rw-r--r-- 1 ubuntu ubuntu   5015323 2026-11-14 22:27:58.657823203 +0000 datasets/smoke_gr1.hdf5
+-rw-r--r-- 1 ubuntu ubuntu 151804691 2026-11-14 22:48:06.497645118 +0000 datasets/v1_generated_gr1.hdf5
+-rw-r--r-- 1 ubuntu ubuntu 157516019 2026-11-14 22:53:35.820227168 +0000 datasets/v1_generated_gr1_normalized.hdf5
+-rw-r--r-- 1 ubuntu ubuntu     32656 2026-11-14 22:27:59.326856916 +0000 smoke.log
+-rw-r--r-- 1 ubuntu ubuntu     50304 2026-11-14 23:41:09.364087257 +0000 v1_eval.log
+-rw-r--r-- 1 ubuntu ubuntu     82190 2026-11-14 22:48:07.420692336 +0000 v1_gen.log
+-rw-r--r-- 1 ubuntu ubuntu   2092652 2026-11-14 23:32:44.900672739 +0000 v1_train.log
+
+## Checkpoints in run folder
+total 158000
+-rw-r--r-- 1 ubuntu ubuntu 8087593 2026-11-14 22:55:37.783383037 +0000 model_epoch_100.pth
+-rw-r--r-- 1 ubuntu ubuntu 8087602 2026-11-14 23:13:09.923434284 +0000 model_epoch_1000.pth
+-rw-r--r-- 1 ubuntu ubuntu 8087602 2026-11-14 23:15:06.840332721 +0000 model_epoch_1100.pth
+-rw-r--r-- 1 ubuntu ubuntu 8087602 2026-11-14 23:17:03.943247288 +0000 model_epoch_1200.pth
+-rw-r--r-- 1 ubuntu ubuntu 8087602 2026-11-14 23:19:01.697192549 +0000 model_epoch_1300.pth
+-rw-r--r-- 1 ubuntu ubuntu 8087602 2026-11-14 23:20:59.519140109 +0000 model_epoch_1400.pth
+-rw-r--r-- 1 ubuntu ubuntu 8087602 2026-11-14 23:22:56.905065601 +0000 model_epoch_1500.pth
+-rw-r--r-- 1 ubuntu ubuntu 8087602 2026-11-14 23:24:54.347011603 +0000 model_epoch_1600.pth
+-rw-r--r-- 1 ubuntu ubuntu 8087602 2026-11-14 23:26:51.959875676 +0000 model_epoch_1700.pth
+-rw-r--r-- 1 ubuntu ubuntu 8087602 2026-11-14 23:28:49.386805403 +0000 model_epoch_1800.pth
+-rw-r--r-- 1 ubuntu ubuntu 8087602 2026-11-14 23:30:47.114768257 +0000 model_epoch_1900.pth
+-rw-r--r-- 1 ubuntu ubuntu 8087593 2026-11-14 22:57:34.956267153 +0000 model_epoch_200.pth
+-rw-r--r-- 1 ubuntu ubuntu 8087602 2026-11-14 23:32:44.790667211 +0000 model_epoch_2000.pth
+-rw-r--r-- 1 ubuntu ubuntu 8087593 2026-11-14 22:59:31.666174984 +0000 model_epoch_300.pth
+-rw-r--r-- 1 ubuntu ubuntu 8087593 2026-11-14 23:01:28.436072059 +0000 model_epoch_400.pth
+-rw-r--r-- 1 ubuntu ubuntu 8087593 2026-11-14 23:03:25.258975634 +0000 model_epoch_500.pth
+-rw-r--r-- 1 ubuntu ubuntu 8087593 2026-11-14 23:05:22.208821316 +0000 model_epoch_600.pth
+-rw-r--r-- 1 ubuntu ubuntu 8087593 2026-11-14 23:07:19.334754582 +0000 model_epoch_700.pth
+-rw-r--r-- 1 ubuntu ubuntu 8087593 2026-11-14 23:09:16.291660472 +0000 model_epoch_800.pth
+-rw-r--r-- 1 ubuntu ubuntu 8087593 2026-11-14 23:11:13.005546092 +0000 model_epoch_900.pth
+
+## SHA-256
+654b949df4aad6b02a49b39b30f2aa81192ea48a507fde49879f005816dd330a  datasets/dataset_annotated_gr1.hdf5
+551f79a0d21d02fa7dbd2f9d020f4c005c8ea1cb3b93e7075618f13f6814fef5  datasets/smoke_gr1.hdf5
+f11d4b54c9504b790a325e6094a4b1fc3fe1686cad56e745776c82e42c617e25  datasets/v1_generated_gr1.hdf5
+4c8d45ce2f30af71b9b49045d765f44894d9fea9afc85b9b91f7c250e8f9ba13  logs/robomimic/Isaac-PickPlace-GR1T2-Abs-v0/bc_rnn_low_dim_gr1t2/20261114225335//models/model_epoch_2000.pth
+f1ac0db717e5c89b2954bc95fd9087b38e737100c0a2018450dff1919ca04300  logs/robomimic/Isaac-PickPlace-GR1T2-Abs-v0/bc_rnn_low_dim_gr1t2/20261114225335//logs/normalization_params.txt
+193786ad7d6b0d31a9a07be511fff9c9bc3c26f545a88456114f82605fa6ead0  smoke.log
+2594fbd98211bb940c4ade8b54a2faa325b0c62f5b30fc6d2b40fd7fcbfcdd54  v1_gen.log
+9bbba3cb69b91d5e210a17ca0798677747b55c4ffe356c96dfd46c855abee86a  v1_train.log
+e43623afe95ba7486179a93a40b183ebcf8e934585f44e4219a962c34900d064  v1_eval.log

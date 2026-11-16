@@ -10,8 +10,8 @@ and record a reference success rate before any TeleopQ research code is added (c
 | Item | Version / value |
 |---|---|
 | Machine | NVIDIA Brev "Isaac Launchable" on AWS g6e.4xlarge: 1× L40S 48 GB, 16 vCPU, 128 GB RAM, 256 GB disk |
-| Isaac Sim | 6.0.1 |
-| Isaac Lab | 3.0.0-beta2 (post1) |
+| Isaac Sim | 6.0.1 (build `6.0.1-rc.7`, see `logs/environment.txt`) |
+| Isaac Lab | 3.0.0 (repo VERSION file; the Brev launchable lists it as 3.0.0-beta2-post1) |
 | robomimic | 0.4.0 |
 | PyTorch | 2.10.0+cu128 |
 | NVIDIA driver | 595.71 |
@@ -42,7 +42,7 @@ them exactly as run.
 |---|---|
 | Smoke test | 10/12 attempts succeeded (83.3%); 4.8 MB for 10 demos (~0.5 MB/demo) |
 | Generation | **300/388 attempts succeeded = 77.3%** (95% Wilson 72.9–81.2%); `v1_generated_gr1.hdf5` = 145 MB, 39,662 samples |
-| Training | 2000 epochs, ~1.1 s/epoch on L40S (~37 min); L1 loss 7.2e-5 (epoch 105) → 1.8e-5 (676) → 6.6e-6 (1272) → 4.8e-6 (1857); no errors |
+| Training | 2000 epochs, ~1.1 s/epoch on L40S (~37 min); L1 loss 1.19e-2 (epoch 1) → 7.2e-5 (105) → 1.8e-5 (676) → 6.6e-6 (1272) → 4.6e-6 (2000); no errors (0 tracebacks in `logs/v1_train.log`) |
 | Action normalization | min −1.7409957647323608, max 1.3797252178192139 |
 | **Evaluation** | **48/50 rollouts succeeded = 96%** (95% Wilson 86.5–98.9%), checkpoint `model_epoch_2000.pth` |
 
@@ -68,7 +68,8 @@ Passed. 96% is the clean-pipeline reference that v2–v4 (degraded operators, cu
 |---|---|
 | `scripts/` | The exact commands for steps 0–4 |
 | `results/v1_summary.json` | All v1 numbers |
-| `logs/` | Run logs copied from the GPU machine (see `logs/README.md`) |
+| `logs/` | Unedited run logs, training config, checksums and environment snapshot copied from the GPU machine |
+| `PROOF.md` | Maps every claim to the log line that proves it |
 | `MODEL_CARD.md` | Model card for the v1 BC policy |
 | `EXPERIMENT_LOG.md` | Timestamped log of the v1 run |
 
