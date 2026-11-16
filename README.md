@@ -1,6 +1,14 @@
 # Cmpe249 - Perception-Aware Teleoperation Data Quality for Imitation Learning
 Created by: Nicholas Bao, Baron Cai, Sai Teja Nomula
 
+## Current status (Nov 16, 2026)
+
+The project is being built in four versions (v1 baseline, v2 scripted operator + degradation injectors, v3 score + H1, v4 curation + H2/H3); see [`docs/TeleopQ_Architecture_Workflow.pdf`](docs/TeleopQ_Architecture_Workflow.pdf).
+
+- **v1 (baseline reproduction): done.** Isaac Lab Mimic → robomimic BC on the Fourier GR-1 pick-and-place task: 300/388 Mimic demos (77.3% yield), **48/50 = 96% policy success**. Report, scripts and model card in [`v1/`](v1/).
+- v2: in progress.
+
+
 ## Abstract
 Humanoid robots are increasingly trained via imitation learning on teleoperated demonstrations, and recent work confirms that demonstration *quality* — not just task success — is a major bottleneck: novice operators produce jerky, inconsistent, or otherwise flawed demonstrations that still "succeed" but poison downstream policy learning. The closest existing system for this problem (DQAF, 2026) scores real operator sessions holistically after the fact, but because real sessions confound many issues at once and have no ground-truth label for *why* a given demonstration is bad, it cannot say which specific factor — latency, camera noise, occlusion, reduced resolution, incorrect depth, or operator error — actually drives policy failure, or by how much. This project uses a simulator (Isaac Sim, or a fallback simulator if setup time proves prohibitive) to generate humanoid manipulation demonstrations with each of these six factors injected independently at controlled, graded severity levels, trains behavior-cloning policies per condition, and measures policy degradation factor-by-factor — producing, for the first time, a ranked, causal picture of which teleoperation-pipeline weaknesses matter most. A ROS 2 pipeline records, scores (rule-based scorer vs. a lightweight learned classifier/vision model), and labels demonstrations in real time on a laptop, and is evaluated against the simulator's ground-truth corruption labels rather than human judgment.
 

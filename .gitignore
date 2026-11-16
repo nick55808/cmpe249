@@ -1,0 +1,16 @@
+# Large data and model files (kept outside git; see v1/logs/README.md)
+*.hdf5
+*.h5
+*.pth
+*.pt
+*.npy
+*.npz
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

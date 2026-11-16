@@ -1,0 +1,43 @@
+{
+  "version": "v1",
+  "date": "2026-11-14",
+  "environment": {
+    "gpu": "NVIDIA L40S 48GB (Brev Isaac Launchable, AWS g6e.4xlarge)",
+    "isaac_sim": "6.0.1",
+    "isaac_lab": "3.0.0-beta2",
+    "robomimic": "0.4.0",
+    "torch": "2.10.0+cu128",
+    "driver": "595.71",
+    "env_step_s": 0.05
+  },
+  "smoke_test": {"successes": 10, "attempts": 12, "yield_pct": 83.3},
+  "generation": {
+    "task": "Isaac-PickPlace-GR1T2-Abs-Mimic-v0",
+    "source_seeds": 5,
+    "num_envs": 20,
+    "successes": 300,
+    "attempts": 388,
+    "yield_pct": 77.3,
+    "yield_wilson95_pct": [72.9, 81.2],
+    "samples": 39662,
+    "file_size_mb": 145
+  },
+  "training": {
+    "task": "Isaac-PickPlace-GR1T2-Abs-v0",
+    "config": "bc_rnn_low_dim_gr1t2",
+    "run_folder": "20261114225335",
+    "epochs": 2000,
+    "seconds_per_epoch": 1.1,
+    "l1_loss": {"105": 7.2e-5, "676": 1.8e-5, "1272": 6.6e-6, "1857": 4.8e-6},
+    "norm_factor_min": -1.7409957647323608,
+    "norm_factor_max": 1.3797252178192139
+  },
+  "evaluation": {
+    "checkpoint": "model_epoch_2000.pth",
+    "rollouts": 50,
+    "horizon": 400,
+    "successes": 48,
+    "success_rate_pct": 96.0,
+    "success_wilson95_pct": [86.5, 98.9]
+  }
+}
