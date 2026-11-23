@@ -1,0 +1,74 @@
+# Collected 2026-11-16 23:19:37 UTC on brev-8rdmbghe0
+
+## Datasets and operator logs (not in git; identified by hash)
+-rw-r--r-- 1 ubuntu ubuntu 10065743 2026-11-15 00:28:49.575040379 +0000 /workspace/isaaclab/datasets/v2/lat0.hdf5
+-rw-r--r-- 1 ubuntu ubuntu 10995447 2026-11-16 22:58:30.749997221 +0000 /workspace/isaaclab/datasets/v2/lat0_annotated.hdf5
+-rw-r--r-- 1 ubuntu ubuntu  9992395 2026-11-15 00:31:22.107714970 +0000 /workspace/isaaclab/datasets/v2/lat2.hdf5
+-rw-r--r-- 1 ubuntu ubuntu  9972252 2026-11-15 00:36:58.165639637 +0000 /workspace/isaaclab/datasets/v2/lat5.hdf5
+-rw-r--r-- 1 ubuntu ubuntu  6535162 2026-11-16 23:15:04.294616863 +0000 /workspace/isaaclab/datasets/v2/oneseed_amplified.hdf5
+-rw-r--r-- 1 ubuntu ubuntu   541699 2026-11-16 22:59:01.926119198 +0000 /workspace/isaaclab/datasets/v2/oneseed_test.hdf5
+-rw-r--r-- 1 ubuntu ubuntu 10071621 2026-11-16 22:58:12.456033649 +0000 /workspace/isaaclab/datasets/v2b/lat0_j0.hdf5
+-rw-r--r-- 1 ubuntu ubuntu 10085986 2026-11-16 23:10:06.087758345 +0000 /workspace/isaaclab/datasets/v2b/lat0_j15.hdf5
+-rw-r--r-- 1 ubuntu ubuntu 10104624 2026-11-16 23:07:03.228000425 +0000 /workspace/isaaclab/datasets/v2b/lat0_j5.hdf5
+-rw-r--r-- 1 ubuntu ubuntu 10038661 2026-11-16 23:13:22.307177633 +0000 /workspace/isaaclab/datasets/v2b/lat2_j0.hdf5
+-rw-r--r-- 1 ubuntu ubuntu 10332672 2026-11-16 23:04:01.290324307 +0000 /workspace/isaaclab/datasets/v2b/lat5_j0.hdf5
+-rw-r--r-- 1 ubuntu ubuntu   507008 2026-11-15 00:28:49.568867598 +0000 /workspace/teleopq/out/oplog_lat0.npy
+-rw-r--r-- 1 ubuntu ubuntu   513408 2026-11-15 00:31:22.101556990 +0000 /workspace/teleopq/out/oplog_lat2.npy
+-rw-r--r-- 1 ubuntu ubuntu  2882688 2026-11-15 00:36:58.159355761 +0000 /workspace/teleopq/out/oplog_lat5.npy
+-rw-r--r-- 1 ubuntu ubuntu   517248 2026-11-16 22:58:12.449580151 +0000 /workspace/teleopq/out2/oplog_lat0_j0.npy
+-rw-r--r-- 1 ubuntu ubuntu   655488 2026-11-16 23:10:06.081661034 +0000 /workspace/teleopq/out2/oplog_lat0_j15.npy
+-rw-r--r-- 1 ubuntu ubuntu   684928 2026-11-16 23:07:03.221764497 +0000 /workspace/teleopq/out2/oplog_lat0_j5.npy
+-rw-r--r-- 1 ubuntu ubuntu   665728 2026-11-16 23:13:22.301105967 +0000 /workspace/teleopq/out2/oplog_lat2_j0.npy
+-rw-r--r-- 1 ubuntu ubuntu  1371008 2026-11-16 23:04:01.283741219 +0000 /workspace/teleopq/out2/oplog_lat5_j0.npy
+
+## SHA-256
+2919741efee254d260c77a2837dc8e5cc2c8e73830a8b77a0a6b70fec1e8b4ca  /workspace/isaaclab/datasets/v2/lat0.hdf5
+16ad3a4b75716521e280f0939500bda56a7390f0639f3ff24e6b6c77ce940341  /workspace/isaaclab/datasets/v2/lat0_annotated.hdf5
+90a82b3aea58d577f69522ce252d0637fc83ab020f5861605eea4a0168db2fc7  /workspace/isaaclab/datasets/v2/lat2.hdf5
+5f3c583c11639b2a7babe431f7913d7b1c421354b86cfb1ad1c3142b6dcdf1ae  /workspace/isaaclab/datasets/v2/lat5.hdf5
+bad4dd85023bf35b2e8f70ad58ce3587cc60192b74314e4f1bda5af3d28acd2d  /workspace/isaaclab/datasets/v2/oneseed_amplified.hdf5
+272a8515e8f464fa66211148d03db97d4487746d9b94ea466470c384bf78eed4  /workspace/isaaclab/datasets/v2/oneseed_test.hdf5
+2a7ebecabd26aa5985ad082d38542771d3fd5d2d04558a967b69dfe46bbcacac  /workspace/isaaclab/datasets/v2b/lat0_j0.hdf5
+ad9b013b22693691fff71e8ca7b00dfe9c5e08a4397bcb5ba03051a4ceb0a7cf  /workspace/isaaclab/datasets/v2b/lat0_j15.hdf5
+8e63ca2c1d370bacbebc1b321118b2ee683bb4416b84a0cc676518fa38a873ab  /workspace/isaaclab/datasets/v2b/lat0_j5.hdf5
+c7a1bed40d856778b5679a1a1cfa974cebb72f5d26bb9c6e8c5373308aa4f054  /workspace/isaaclab/datasets/v2b/lat2_j0.hdf5
+5ccc14f62ef4f03c4588f407f6958bfc7c2e7232336ec44363ed3abeb38fb5b1  /workspace/isaaclab/datasets/v2b/lat5_j0.hdf5
+4ae990ea80fc3edaa9853cc03f4ee115557916eeb11833b00e9e54b750150870  /workspace/teleopq/out/oplog_lat0.npy
+78117f68ce8d1103d676d45714260e4768ab7a45bd6f936ed8a605996da57168  /workspace/teleopq/out/oplog_lat2.npy
+4f773e68b18f0308c64c5cbc282544fe3d6d08f5183d9af4aa9a34deaff20696  /workspace/teleopq/out/oplog_lat5.npy
+5bbd43d7577e043dd92e55e62bd5ded0360accf41766fedee529c2c5aa6e5faa  /workspace/teleopq/out2/oplog_lat0_j0.npy
+af1b09e93f49a9d959e1bcc5594802fd82a91ad685e2711f039328b45639e6c2  /workspace/teleopq/out2/oplog_lat0_j15.npy
+4e7dec8f34b13ed8a5ba9b41e813a1f707740c79f015514237599da248212ee2  /workspace/teleopq/out2/oplog_lat0_j5.npy
+91a8dfd90a191ca8f211db8b0bc65dc769dd4419c19ec50b1dea4beeed3ecac3  /workspace/teleopq/out2/oplog_lat2_j0.npy
+d3839e79183745492d9d0df45dc4615af33c4f764fbd16a7a3b77e82b0c2a49b  /workspace/teleopq/out2/oplog_lat5_j0.npy
+
+## SHA-256 of logs and scripts in this export
+29099b6c8fc52972545b0e2f011eb42fee53a1a3bdbf9dc5fa64daaef783d358  logs/batch1_gain0.3/gen_lat0.log
+b134845192a7f8592c84114ad0e647b8dcdfa1726f920dd47234b037c5a8ce83  logs/batch1_gain0.3/gen_lat2.log
+e4a0dcfe7b45d56692444791396dba5067bb096674c694175cd33989ef68390d  logs/batch1_gain0.3/gen_lat5.log
+f0d9ec314133991a105b977232b2bd6ff87974fa4ffe23e7814f2862fa4ea7fe  logs/batch1_gain0.3/latency_test.log
+d5422fafe5b826ec5efd73e77addddf64aeda5b40c4ee84b3258798987eb70c2  logs/batch2_gain0.2/annotate.txt
+5a8b69bcbc5eb2c7e19c45742fb1eb090f76d8e7495cc472705c5085f61e79a1  logs/batch2_gain0.2/batch2.log
+b9bfcefe3e920c56e70f07444fcfba529c59ada29ce5844874e029e4efe11d9b  logs/batch2_gain0.2/boundary.txt
+f28a8f77ce0959e8a50de2cba0be7edb6b8006cca8e107289d979c96ee45395c  logs/batch2_gain0.2/framecheck.txt
+1298554f376d5c4a0b575a60f078971fa533c95825c45f2121ef4f941a2bab15  logs/batch2_gain0.2/gen_lat0_j0.log
+c76d21a874f933697681a9ce3c35a342c59c66c51937b6254359efa9ac2cf7c6  logs/batch2_gain0.2/gen_lat0_j15.log
+8ca9159e00b020681d5e42ce93c623ab1f9faf3d97b8fa97a22e7c0d63916356  logs/batch2_gain0.2/gen_lat0_j5.log
+c7b9cfa4e3f4c5116b48e14d8c99a7290629ae91f2bbfc731472c2575a18d109  logs/batch2_gain0.2/gen_lat2_j0.log
+558902273d29a59240bde2149fa6b940c4dbe9b784eff868ffd2534250283ff1  logs/batch2_gain0.2/gen_lat5_j0.log
+9d5646fc57cbff15c3c9c4bca30a6ea26c16c5e701d65ef88e960aeb4be1f67f  logs/batch2_gain0.2/oneseed.log
+a218ff08c85b1a4f01462494f068f46b26507e7cd169bc98cdf324ccb8cb9b48  logs/batch2_gain0.2/queue.log
+9f401fdfd0987ba1dbf44a7addb60cb2def12ba85c3a98c9cf28d13682b3e580  logs/batch2_gain0.2/seedsig.txt
+a3fe23447afe3a9717e34641c7228c36479ea5a9652703655add759d4f886b40  results/batch1_latency_summary.json
+8de08eaf73df8aefe80a4a93555d2caae6e049c16080a73a8557e29483f70255  results/v2_summary.json
+4ce3a14f6cf3332e3d42b5133c2643b96ad72827fa13847415e82edf039784f7  scripts/run_latency_test.sh
+17f020a5dd23b765377f0ec4b7f0764c6b0008d1450708caafc622194e8a0985  scripts/run_v2_batch2.sh
+ea9d2e88ba450d5763b648a10b7416f2e593829f2440106b862aae8424b0cc96  scripts/run_v2_queue.sh
+416fe108e8766fec2849b7e7be500429c45db4c8922e4266d0a325e89dea4e5e  scripts/tq_analyze_latency.py
+17f639d30a0f09bf7c9e0a2284d29a465443a4e3f3b3e7c7f26dd500c76637b5  scripts/tq_analyze_v2.py
+e2a71b65d860d2d8db03690a3850ebc072be3baeecc194177648fbd4437822f5  scripts/tq_annotate.py
+4e0de852c80704b013ffc1c2aeecbda283157c04bd8c3855959206a31a72f917  scripts/tq_boundary.py
+c28641515a04edc5d09f18990b8db82ca0c645c5dc2ce7600ad247dbebc8516b  scripts/tq_framecheck.py
+d4133748df999c43a2314bd08a84f8d0e772e0ae6839d2dc604173c3cefb9de0  scripts/tq_generate.py
+60801907555f2a4af9c09d0e4a9da882a919c50af30ce8edc848986650da0f8a  scripts/tq_seedsig.py
+a52c2b7ab27d007ffd76d12c655cf6b2317d57a88667d960248f4686bb63424c  scripts/tq_subset.py

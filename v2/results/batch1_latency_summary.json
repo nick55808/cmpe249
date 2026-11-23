@@ -1,0 +1,50 @@
+{
+ "0": {
+  "latency_steps": 0,
+  "latency_ms": 0.0,
+  "successes": 20,
+  "attempts": 26,
+  "yield_pct": 76.9,
+  "n_demos": 20,
+  "sparc_mean": -6.323347227632026,
+  "sparc_std": 0.959136693968802,
+  "len_mean_steps": 131.05,
+  "jerk_mean": 151.75174713134766,
+  "track_err_mm_mean": 14.432369232177734,
+  "track_err_mm_p95": 44.14936065673828,
+  "perceived_age_steps_mean": 0.0,
+  "perceived_vs_true_mm_mean": 0.0
+ },
+ "2": {
+  "latency_steps": 2,
+  "latency_ms": 100.0,
+  "successes": 20,
+  "attempts": 29,
+  "yield_pct": 69.0,
+  "n_demos": 20,
+  "sparc_mean": -5.363653331769996,
+  "sparc_std": 0.946973978561718,
+  "len_mean_steps": 129.8,
+  "jerk_mean": 130.26038284301757,
+  "track_err_mm_mean": 16.41874885559082,
+  "track_err_mm_p95": 40.497127532958984,
+  "perceived_age_steps_mean": 1.9710723161697388,
+  "perceived_vs_true_mm_mean": 24.96951675415039
+ },
+ "5": {
+  "latency_steps": 5,
+  "latency_ms": 250.0,
+  "successes": 20,
+  "attempts": 166,
+  "yield_pct": 12.0,
+  "n_demos": 20,
+  "sparc_mean": -4.345263712409481,
+  "sparc_std": 0.7680743725837074,
+  "len_mean_steps": 128.85,
+  "jerk_mean": 135.4528678894043,
+  "track_err_mm_mean": 80.39544677734375,
+  "track_err_mm_p95": 337.8923645019531,
+  "perceived_age_steps_mean": 4.884147644042969,
+  "perceived_vs_true_mm_mean": 60.43379592895508
+ }
+}

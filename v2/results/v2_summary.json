@@ -1,0 +1,198 @@
+{
+ "conditions": [
+  {
+   "tag": "b1_lat0",
+   "op_gain": 0.3,
+   "latency_steps": 0,
+   "latency_ms": 0,
+   "jitter_mm": 0,
+   "successes": 20,
+   "attempts": 26,
+   "yield_pct": 76.9,
+   "yield_wilson95_pct": [
+    57.9,
+    89.0
+   ],
+   "n_demos": 20,
+   "sparc_mean": -6.323,
+   "sparc_sd": 0.959,
+   "jerk_mean": 151.8,
+   "len_mean_steps": 131.1,
+   "track_err_mm_mean": 14.4,
+   "track_err_mm_p95": 44.1,
+   "perceived_age_steps_mean": 0.0,
+   "perceived_vs_true_mm_mean": 0.0
+  },
+  {
+   "tag": "b1_lat2",
+   "op_gain": 0.3,
+   "latency_steps": 2,
+   "latency_ms": 100,
+   "jitter_mm": 0,
+   "successes": 20,
+   "attempts": 29,
+   "yield_pct": 69.0,
+   "yield_wilson95_pct": [
+    50.8,
+    82.7
+   ],
+   "n_demos": 20,
+   "sparc_mean": -5.364,
+   "sparc_sd": 0.947,
+   "jerk_mean": 130.3,
+   "len_mean_steps": 129.8,
+   "track_err_mm_mean": 16.4,
+   "track_err_mm_p95": 40.5,
+   "perceived_age_steps_mean": 1.97,
+   "perceived_vs_true_mm_mean": 25.0
+  },
+  {
+   "tag": "b1_lat5",
+   "op_gain": 0.3,
+   "latency_steps": 5,
+   "latency_ms": 250,
+   "jitter_mm": 0,
+   "successes": 20,
+   "attempts": 166,
+   "yield_pct": 12.0,
+   "yield_wilson95_pct": [
+    7.9,
+    17.9
+   ],
+   "n_demos": 20,
+   "sparc_mean": -4.345,
+   "sparc_sd": 0.768,
+   "jerk_mean": 135.5,
+   "len_mean_steps": 128.8,
+   "track_err_mm_mean": 80.4,
+   "track_err_mm_p95": 337.9,
+   "perceived_age_steps_mean": 4.88,
+   "perceived_vs_true_mm_mean": 60.4
+  },
+  {
+   "tag": "b2_lat0_j0",
+   "op_gain": 0.2,
+   "latency_steps": 0,
+   "latency_ms": 0,
+   "jitter_mm": 0,
+   "successes": 20,
+   "attempts": 30,
+   "yield_pct": 66.7,
+   "yield_wilson95_pct": [
+    48.8,
+    80.8
+   ],
+   "n_demos": 20,
+   "sparc_mean": -6.242,
+   "sparc_sd": 0.89,
+   "jerk_mean": 141.8,
+   "len_mean_steps": 131.2,
+   "track_err_mm_mean": 15.8,
+   "track_err_mm_p95": 47.5,
+   "perceived_age_steps_mean": 0.0,
+   "perceived_vs_true_mm_mean": 0.0
+  },
+  {
+   "tag": "b2_lat2_j0",
+   "op_gain": 0.2,
+   "latency_steps": 2,
+   "latency_ms": 100,
+   "jitter_mm": 0,
+   "successes": 20,
+   "attempts": 33,
+   "yield_pct": 60.6,
+   "yield_wilson95_pct": [
+    43.7,
+    75.3
+   ],
+   "n_demos": 20,
+   "sparc_mean": -5.659,
+   "sparc_sd": 0.482,
+   "jerk_mean": 131.9,
+   "len_mean_steps": 130.6,
+   "track_err_mm_mean": 19.4,
+   "track_err_mm_p95": 64.8,
+   "perceived_age_steps_mean": 1.98,
+   "perceived_vs_true_mm_mean": 23.5
+  },
+  {
+   "tag": "b2_lat5_j0",
+   "op_gain": 0.2,
+   "latency_steps": 5,
+   "latency_ms": 250,
+   "jitter_mm": 0,
+   "successes": 20,
+   "attempts": 78,
+   "yield_pct": 25.6,
+   "yield_wilson95_pct": [
+    17.3,
+    36.3
+   ],
+   "n_demos": 20,
+   "sparc_mean": -5.706,
+   "sparc_sd": 0.649,
+   "jerk_mean": 133.5,
+   "len_mean_steps": 135.2,
+   "track_err_mm_mean": 27.3,
+   "track_err_mm_p95": 77.6,
+   "perceived_age_steps_mean": 4.88,
+   "perceived_vs_true_mm_mean": 53.8
+  },
+  {
+   "tag": "b2_lat0_j5",
+   "op_gain": 0.2,
+   "latency_steps": 0,
+   "latency_ms": 0,
+   "jitter_mm": 5,
+   "successes": 20,
+   "attempts": 38,
+   "yield_pct": 52.6,
+   "yield_wilson95_pct": [
+    37.3,
+    67.5
+   ],
+   "n_demos": 20,
+   "sparc_mean": -5.869,
+   "sparc_sd": 1.025,
+   "jerk_mean": 143.9,
+   "len_mean_steps": 131.6,
+   "track_err_mm_mean": 15.9,
+   "track_err_mm_p95": 49.6,
+   "perceived_age_steps_mean": 0.0,
+   "perceived_vs_true_mm_mean": 7.9
+  },
+  {
+   "tag": "b2_lat0_j15",
+   "op_gain": 0.2,
+   "latency_steps": 0,
+   "latency_ms": 0,
+   "jitter_mm": 15,
+   "successes": 20,
+   "attempts": 32,
+   "yield_pct": 62.5,
+   "yield_wilson95_pct": [
+    45.3,
+    77.1
+   ],
+   "n_demos": 20,
+   "sparc_mean": -6.102,
+   "sparc_sd": 1.041,
+   "jerk_mean": 157.8,
+   "len_mean_steps": 131.3,
+   "track_err_mm_mean": 19.8,
+   "track_err_mm_p95": 59.6,
+   "perceived_age_steps_mean": 0.0,
+   "perceived_vs_true_mm_mean": 23.8
+  }
+ ],
+ "one_seed_amplification": {
+  "seed": "v2/lat0_annotated.hdf5 demo_0",
+  "successes": 13,
+  "attempts": 15,
+  "yield_pct": 86.7,
+  "yield_wilson95_pct": [
+   62.1,
+   96.3
+  ]
+ }
+}

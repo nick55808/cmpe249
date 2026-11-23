@@ -1,0 +1,10 @@
+== seeds: object height and right-hand pose around the subtask boundary
+demo_0 boundary 60 z0 1.000 dz@b 0.126 first lift>1cm 38 dz@b-10 0.165 dz@b+10 0.114 hand-closure@b 0.43 max 0.77 | datagen obj pos [-0.442  0.44   1.   ] state root [-0.442  0.44   0.998]
+demo_1 boundary 64 z0 1.000 dz@b 0.083 first lift>1cm 36 dz@b-10 0.136 dz@b+10 0.075 hand-closure@b 0.43 max 0.51 | datagen obj pos [-0.443  0.444  1.   ] state root [-0.443  0.444  0.998]
+demo_2 boundary 65 z0 1.000 dz@b 0.157 first lift>1cm 36 dz@b-10 0.171 dz@b+10 0.140 hand-closure@b 0.34 max 0.51 | datagen obj pos [-0.453  0.459  1.   ] state root [-0.453  0.459  0.998]
+demo_3 boundary 60 z0 1.000 dz@b 0.199 first lift>1cm 35 dz@b-10 0.209 dz@b+10 0.186 hand-closure@b 0.23 max 0.53 | datagen obj pos [-0.446  0.443  1.   ] state root [-0.446  0.443  0.998]
+demo_4 boundary 62 z0 1.000 dz@b 0.180 first lift>1cm 37 dz@b-10 0.209 dz@b+10 0.145 hand-closure@b 0.26 max 0.56 | datagen obj pos [-0.45   0.445  1.   ] state root [-0.45   0.445  0.998]
+== v2 lat0 demo keys: ['actions', 'hand_joint_state', 'head_joint_state', 'left_eef_pos', 'left_eef_quat', 'object', 'object_pos', 'object_rot', 'right_eef_pos', 'right_eef_quat', 'robot_joint_pos', 'robot_links_state', 'robot_root_pos', 'robot_root_rot']
+obs object_pos[0] [-0.458  0.445  1.   ] state root[0] [-0.458  0.445  0.998] robot root [0.   0.   0.93] obs robot_root_pos [0.   0.   0.93]
+obs right_eef_pos[0] [0.229 0.254 1.095] action right pos[0] [0.214 0.258 1.097]
+v2 demo len 127 first lift>1cm 35

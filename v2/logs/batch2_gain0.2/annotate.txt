@@ -1,0 +1,2 @@
+seed boundary error (pred - true, steps): [4, -2, -3, 1, 1] | max |target pose - datagen| : 4.76837158203125e-07
+annotated 20 demos, skipped 0 (object never lifted) -> datasets/v2/lat0_annotated.hdf5; boundaries: {'demo_0': 61, 'demo_1': 62, 'demo_2': 62, 'demo_3': 64, 'demo_4': 63, 'demo_5': 63, 'demo_6': 62, 'demo_7': 62, 'demo_8': 63, 'demo_9': 64, 'demo_10': 63, 'demo_11': 63, 'demo_12': 62, 'demo_13': 65, 'demo_14': 63, 'demo_15': 62, 'demo_16': 63, 'demo_17': 62, 'demo_18': 63, 'demo_19': 61}

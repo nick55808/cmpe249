@@ -1,0 +1,7 @@
+demo_0 len 131 idle_right first True 60 n True 71 right moves from 2 left moves from 0 right-hand finger change steps [0, 1, 2, 3, 4, 26] left finger change [0, 1, 2, 3, 4, 5]
+demo_1 len 134 idle_right first True 64 n True 70 right moves from 0 left moves from 1 right-hand finger change steps [24, 25, 26, 27, 28, 29] left finger change [0, 1, 2, 3, 4, 6]
+demo_2 len 138 idle_right first True 65 n True 73 right moves from 2 left moves from 0 right-hand finger change steps [4, 27, 28, 29, 30, 31] left finger change [0, 1, 2, 3, 4, 5]
+demo_3 len 123 idle_right first True 60 n True 63 right moves from 0 left moves from 0 right-hand finger change steps [7, 8, 9, 10, 24, 25] left finger change [0, 1, 2, 3, 4, 5]
+demo_4 len 126 idle_right first True 62 n True 64 right moves from 0 left moves from 0 right-hand finger change steps [6, 7, 8, 27, 28, 29] left finger change [0, 1, 2, 3, 4, 5]
+datagen_info keys: ['eef_pose', 'object_pose', 'subtask_term_signals', 'target_eef_pose']
+env_args mimic cfg? ['env_args', 'total']
