@@ -1,0 +1,255 @@
+[WARNING] _isaac_sim is present but _isaac_sim/setup_conda_env.sh is missing; Isaac Sim env vars not exported.
+[WARNING] Re-extract the Isaac Sim binary zip if you intend to use the bundled binary.
+[INFO] Using Python: "/workspace/isaaclab/_isaac_sim/python.sh"
+The '--headless' CLI argument is deprecated. Omit '--viz' for default headless. If config visualizers are enabled and you want to force headless, use '--viz none'.
+Loading user config located at: '/isaac-sim/kit/data/Kit/IsaacLab/3.0/user.config.json'
+2026-11-17T01:22:13Z [0ms] [Warning] [omni.ext.plugin] [ext: data_storage] Extensions config 'extension.toml' doesn't exist '/workspace/isaaclab/data_storage' or '/workspace/isaaclab/data_storage/config'
+2026-11-17T01:22:13Z [0ms] [Warning] [omni.ext.plugin] [ext: isaaclab_visualizers] Extensions config 'extension.toml' doesn't exist '/workspace/isaaclab/source/isaaclab_visualizers' or '/workspace/isaaclab/source/isaaclab_visualizers/config'
+2026-11-17T01:22:13Z [0ms] [Warning] [omni.ext.plugin] [ext: tools] Extensions config 'extension.toml' doesn't exist '/workspace/isaaclab/tools' or '/workspace/isaaclab/tools/config'
+2026-11-17T01:22:13Z [0ms] [Warning] [omni.ext.plugin] [ext: apps] Extensions config 'extension.toml' doesn't exist '/workspace/isaaclab/apps' or '/workspace/isaaclab/apps/config'
+2026-11-17T01:22:13Z [0ms] [Warning] [omni.ext.plugin] [ext: docker] Extensions config 'extension.toml' doesn't exist '/workspace/isaaclab/docker' or '/workspace/isaaclab/docker/config'
+2026-11-17T01:22:13Z [1ms] [Warning] [omni.ext.plugin] [ext: .vscode] Extensions config 'extension.toml' doesn't exist '/workspace/isaaclab/.vscode' or '/workspace/isaaclab/.vscode/config'
+2026-11-17T01:22:13Z [1ms] [Warning] [omni.ext.plugin] [ext: docs] Extensions config 'extension.toml' doesn't exist '/workspace/isaaclab/docs' or '/workspace/isaaclab/docs/config'
+2026-11-17T01:22:13Z [1ms] [Warning] [omni.ext.plugin] [ext: _isaac_sim] Extensions config 'extension.toml' doesn't exist '/workspace/isaaclab/_isaac_sim' or '/workspace/isaaclab/_isaac_sim/config'
+2026-11-17T01:22:13Z [1ms] [Warning] [omni.ext.plugin] [ext: scripts] Extensions config 'extension.toml' doesn't exist '/workspace/isaaclab/scripts' or '/workspace/isaaclab/scripts/config'
+2026-11-17T01:22:13Z [1ms] [Warning] [omni.ext.plugin] [ext: source] Extensions config 'extension.toml' doesn't exist '/workspace/isaaclab/source' or '/workspace/isaaclab/source/config'
+2026-11-17T01:22:13Z [1ms] [Warning] [omni.ext.plugin] [ext: datasets] Extensions config 'extension.toml' doesn't exist '/workspace/isaaclab/datasets' or '/workspace/isaaclab/datasets/config'
+2026-11-17T01:22:13Z [1ms] [Warning] [omni.ext.plugin] [ext: logs] Extensions config 'extension.toml' doesn't exist '/workspace/isaaclab/logs' or '/workspace/isaaclab/logs/config'
+2026-11-17T01:22:13Z [188ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:13Z [259ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:13Z [340ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:13Z [431ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:14Z [533ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:14Z [644ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:14Z [766ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:14Z [897ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:14Z [1,039ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:14Z [1,190ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:14Z [1,351ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:14Z [1,523ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:15Z [1,704ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:15Z [1,896ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:15Z [2,097ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:15Z [2,308ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:16Z [2,530ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:16Z [2,761ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:16Z [3,002ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:16Z [3,254ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:16Z [3,515ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:17Z [3,787ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:17Z [4,069ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:17Z [4,360ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:18Z [4,661ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:18Z [4,973ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:18Z [5,295ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:19Z [5,626ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:19Z [5,968ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:19Z [6,319ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:20Z [6,681ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:20Z [7,053ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:20Z [7,435ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:21Z [7,826ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:21Z [8,227ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:22Z [8,639ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:22Z [9,061ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:22Z [9,492ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+2026-11-17T01:22:23Z [9,933ms] [Warning] [carb.omniclient.plugin]  46137: OmniHub: ThreadId(02) Hub encountered error. Trying to reconnect to Hub. retry_reason="Hub failed to launch: Io(\"child exited with exit status: 1 without writing file \\\"/tmp/hub-ubuntu-262DA04E.config.json\\\"\")"
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1794878543.863307   46108 descriptor_database.cc:633] File already exists in database: grpc/health/v1/health.proto
+W0000 00:00:1794878543.863355   46108 message.cc:301] Protobuf GeneratedMessageFactory: File is already registered: grpc/health/v1/health.proto
+2026-11-17T01:22:24Z [10,760ms] [Warning] [omni.platforminfo.plugin] failed to open the default display.  Can't verify X Server version.
+2026-11-17T01:22:24Z [10,762ms] [Warning] [omni.usd_config.extension] Enable omni.materialx.libs extension to use MaterialX
+[ISAACLAB] AppLauncher initialization complete
+/workspace/isaaclab/_isaac_sim/kit/python/lib/python3.12/site-packages/gymnasium/envs/registration.py:636: UserWarning: [33mWARN: Overriding environment Isaac-Stack-Cube-Franka-IK-Rel-Skillgen-v0 already in registry.[0m
+  logger.warn(f"Overriding environment {new_spec.id} already in registry.")
+/workspace/isaaclab/_isaac_sim/kit/python/lib/python3.12/site-packages/gymnasium/envs/registration.py:636: UserWarning: [33mWARN: Overriding environment Isaac-Stack-Cube-Bin-Franka-IK-Rel-Mimic-v0 already in registry.[0m
+  logger.warn(f"Overriding environment {new_spec.id} already in registry.")
+[INFO]: Parsing configuration from: isaaclab_mimic.envs.pickplace_gr1t2_mimic_env_cfg:PickPlaceGR1T2MimicEnvCfg
+2026-11-17T01:22:31Z [17,997ms] [Warning] [isaaclab.envs.manager_based_env] Seed not set for the environment. The environment creation may not be deterministic.
+2026-11-17T01:22:31Z [18,012ms] [Warning] [isaaclab_physx.physics.physx_manager] TGS solver with enable_external_forces_every_iteration=False may cause noisy velocities.
+[INFO]: Base environment:
+	Environment device    : cpu
+	Environment seed      : None
+	Physics step-size     : 0.008333333333333333
+	Rendering step-size   : 0.016666666666666666
+	Environment step-size : 0.05
+2026-11-17T01:22:31Z [18,014ms] [Warning] [isaaclab.envs.manager_based_env] The render interval (2) is smaller than the decimation (6). Multiple render calls will happen for each environment step. If this is not intended, set the render interval to be equal to the decimation.
+[INFO]: Registered backend 'physx' for factory Articulation.
+[INFO]: Registered backend 'physx' for factory FrameView.
+[INFO]: Registered backend 'physx' for factory RigidObject.
+[INFO]: Physics scene prim path: /physicsScene
+[INFO]: Time taken for scene creation Last: 1.285111 s, Mean: 1.285111 s, Std: 0.000000 s, N: 1
+[INFO]: Scene manager:  <class InteractiveScene>
+	Number of environments: 5
+	Environment spacing   : 2.5
+	Source prim name      : /World/envs/env_0
+	Global prim paths     : []
+	Replicate physics     : True
+2026-11-17T01:22:32Z [19,396ms] [Warning] [usdrt.population.plugin] Last global time was not created. Did you call setEnableUsdNoticeHandling?
+2026-11-17T01:22:32Z [19,515ms] [Warning] [isaaclab_physx.assets.articulation.articulation] Not all actuators are configured! Total number of actuated joints not equal to number of joints available: 39 != 54.
+[INFO]: Simulation parameters for joints in /World/envs/env_.*/Robot:
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                         Simulation Joint Information (Prim path: /World/envs/env_.*/Robot)                                                        |
++-------+------------------------------+-----------+---------+----------+-----------------+------------------+------------------+-----------------+-----------------+---------------+
+| Index | Name                         | Stiffness | Damping | Armature | Static Friction | Dynamic Friction | Viscous Friction | Position Limits | Velocity Limits | Effort Limits |
++-------+------------------------------+-----------+---------+----------+-----------------+------------------+------------------+-----------------+-----------------+---------------+
+|   0   | left_hip_roll_joint          |  4.4e+03  |  1.777  |  0.000   |      0.000      |      0.000       |      0.000       | [-0.090, 0.790] |      12.150     |     5.000     |
+|   1   | right_hip_roll_joint         |  4.4e+03  |  1.774  |  0.000   |      0.000      |      0.000       |      0.000       | [-0.790, 0.090] |      12.150     |     5.000     |
+|   2   | waist_yaw_joint              |  4.4e+03  |  40.000 |  0.010   |      0.000      |      0.000       |      0.000       | [-1.050, 1.050] |      16.760     |     50.000    |
+|   3   | left_hip_yaw_joint           |  5.1e+03  |  2.027  |  0.000   |      0.000      |      0.000       |      0.000       | [-0.700, 0.700] |      16.760     |     5.000     |
+|   4   | right_hip_yaw_joint          |  5.1e+03  |  2.024  |  0.000   |      0.000      |      0.000       |      0.000       | [-0.700, 0.700] |      16.760     |     5.000     |
+|   5   | waist_pitch_joint            |  4.4e+03  |  40.000 |  0.010   |      0.000      |      0.000       |      0.000       | [-0.520, 1.220] |      16.760     |     50.000    |
+|   6   | left_hip_pitch_joint         |  1.2e+04  |  4.963  |  0.000   |      0.000      |      0.000       |      0.000       | [-1.750, 0.700] |      37.380     |     5.000     |
+|   7   | right_hip_pitch_joint        |  1.2e+04  |  4.948  |  0.000   |      0.000      |      0.000       |      0.000       | [-1.750, 0.700] |      37.380     |     5.000     |
+|   8   | waist_roll_joint             |  4.4e+03  |  40.000 |  0.010   |      0.000      |      0.000       |      0.000       | [-0.700, 0.700] |      16.760     |     50.000    |
+|   9   | left_knee_pitch_joint        |  5.3e+04  |  21.211 |  0.000   |      0.000      |      0.000       |      0.000       | [-0.090, 1.920] |      37.380     |     5.000     |
+|   10  | right_knee_pitch_joint       |  5.3e+04  |  21.206 |  0.000   |      0.000      |      0.000       |      0.000       | [-0.090, 1.920] |      37.380     |     5.000     |
+|   11  | head_roll_joint              |  7.0e+03  |  2.793  |  0.000   |      0.000      |      0.000       |      0.000       | [-0.350, 0.350] |      27.960     |     25.000    |
+|   12  | left_shoulder_pitch_joint    |  4.4e+03  |  40.000 |  0.010   |      0.000      |      0.000       |      0.000       | [-2.790, 1.920] |      9.110      |     38.000    |
+|   13  | right_shoulder_pitch_joint   |  4.4e+03  |  40.000 |  0.010   |      0.000      |      0.000       |      0.000       | [-2.790, 1.920] |      9.110      |     38.000    |
+|   14  | left_ankle_pitch_joint       |  1.6e+04  |  6.453  |  0.000   |      0.000      |      0.000       |      0.000       | [-1.050, 0.520] |      20.320     |     5.000     |
+|   15  | right_ankle_pitch_joint      |  1.6e+04  |  6.453  |  0.000   |      0.000      |      0.000       |      0.000       | [-1.050, 0.520] |      20.320     |     5.000     |
+|   16  | head_pitch_joint             |  2.2e+03  |  0.880  |  0.000   |      0.000      |      0.000       |      0.000       | [-0.870, 0.870] |      27.960     |     25.000    |
+|   17  | left_shoulder_roll_joint     |  4.4e+03  |  40.000 |  0.010   |      0.000      |      0.000       |      0.000       | [-0.570, 2.530] |      9.110      |     38.000    |
+|   18  | right_shoulder_roll_joint    |  4.4e+03  |  40.000 |  0.010   |      0.000      |      0.000       |      0.000       | [-2.530, 0.570] |      9.110      |     38.000    |
+|   19  | left_ankle_roll_joint        |  411.045  |  0.164  |  0.000   |      0.000      |      0.000       |      0.000       | [-0.440, 0.440] |      20.320     |     5.000     |
+|   20  | right_ankle_roll_joint       |  413.172  |  0.165  |  0.000   |      0.000      |      0.000       |      0.000       | [-0.440, 0.440] |      20.320     |     5.000     |
+|   21  | head_yaw_joint               |  2.2e+03  |  0.883  |  0.000   |      0.000      |      0.000       |      0.000       | [-2.710, 2.710] |      27.960     |     25.000    |
+|   22  | left_shoulder_yaw_joint      |  4.4e+03  |  40.000 |  0.010   |      0.000      |      0.000       |      0.000       | [-2.970, 2.970] |      7.330      |     30.000    |
+|   23  | right_shoulder_yaw_joint     |  4.4e+03  |  40.000 |  0.010   |      0.000      |      0.000       |      0.000       | [-2.970, 2.970] |      7.330      |     30.000    |
+|   24  | left_elbow_pitch_joint       |  4.4e+03  |  40.000 |  0.010   |      0.000      |      0.000       |      0.000       | [-2.270, 2.270] |      7.330      |     30.000    |
+|   25  | right_elbow_pitch_joint      |  4.4e+03  |  40.000 |  0.010   |      0.000      |      0.000       |      0.000       | [-2.270, 2.270] |      7.330      |     30.000    |
+|   26  | left_wrist_yaw_joint         |  4.4e+03  |  40.000 |  0.010   |      0.000      |      0.000       |      0.000       | [-2.970, 2.970] |      24.400     |     10.200    |
+|   27  | right_wrist_yaw_joint        |  4.4e+03  |  40.000 |  0.010   |      0.000      |      0.000       |      0.000       | [-2.970, 2.970] |      24.400     |     10.200    |
+|   28  | left_wrist_roll_joint        |  4.4e+03  |  40.000 |  0.010   |      0.000      |      0.000       |      0.000       | [-0.870, 0.960] |      27.960     |     3.950     |
+|   29  | right_wrist_roll_joint       |  4.4e+03  |  40.000 |  0.010   |      0.000      |      0.000       |      0.000       | [-0.960, 0.870] |      27.960     |     3.950     |
+|   30  | left_wrist_pitch_joint       |  4.4e+03  |  40.000 |  0.010   |      0.000      |      0.000       |      0.000       | [-0.610, 0.610] |      27.960     |     3.950     |
+|   31  | right_wrist_pitch_joint      |  4.4e+03  |  40.000 |  0.010   |      0.000      |      0.000       |      0.000       | [-0.610, 0.610] |      27.960     |     3.950     |
+|   32  | L_index_proximal_joint       |  1.7e+04  | 558.480 |  0.000   |      0.000      |      0.000       |      0.000       | [-1.570, 0.000] |      87.266     |    2.0e+03    |
+|   33  | L_middle_proximal_joint      |  1.7e+04  | 558.480 |  0.000   |      0.000      |      0.000       |      0.000       | [-1.570, 0.000] |      87.266     |    2.0e+03    |
+|   34  | L_pinky_proximal_joint       |  1.7e+04  | 558.480 |  0.000   |      0.000      |      0.000       |      0.000       | [-1.570, 0.000] |      87.266     |    2.0e+03    |
+|   35  | L_ring_proximal_joint        |  1.7e+04  | 558.480 |  0.000   |      0.000      |      0.000       |      0.000       | [-1.570, 0.000] |      87.266     |    2.0e+03    |
+|   36  | L_thumb_proximal_yaw_joint   |  1.7e+04  | 558.480 |  0.000   |      0.000      |      0.000       |      0.000       | [-1.740, 0.000] |      87.266     |    2.0e+03    |
+|   37  | R_index_proximal_joint       |  1.7e+04  | 558.480 |  0.000   |      0.000      |      0.000       |      0.000       | [-1.570, 0.000] |      87.266     |    2.0e+03    |
+|   38  | R_middle_proximal_joint      |  1.7e+04  | 558.480 |  0.000   |      0.000      |      0.000       |      0.000       | [-1.570, 0.000] |      87.266     |    2.0e+03    |
+|   39  | R_pinky_proximal_joint       |  1.7e+04  | 558.480 |  0.000   |      0.000      |      0.000       |      0.000       | [-1.570, 0.000] |      87.266     |    2.0e+03    |
+|   40  | R_ring_proximal_joint        |  1.7e+04  | 558.480 |  0.000   |      0.000      |      0.000       |      0.000       | [-1.570, 0.000] |      87.266     |    2.0e+03    |
+|   41  | R_thumb_proximal_yaw_joint   |  1.7e+04  | 558.480 |  0.000   |      0.000      |      0.000       |      0.000       | [-1.740, 0.000] |      87.266     |    2.0e+03    |
+|   42  | L_index_intermediate_joint   |   0.000   |  0.000  |  0.000   |      0.000      |      0.000       |      0.000       | [-2.125, 0.354] |      87.266     |    3.4e+38    |
+|   43  | L_middle_intermediate_joint  |   0.000   |  0.000  |  0.000   |      0.000      |      0.000       |      0.000       | [-2.131, 0.355] |      87.266     |    3.4e+38    |
+|   44  | L_pinky_intermediate_joint   |   0.000   |  0.000  |  0.000   |      0.000      |      0.000       |      0.000       | [-2.127, 0.355] |      87.266     |    3.4e+38    |
+|   45  | L_ring_intermediate_joint    |   0.000   |  0.000  |  0.000   |      0.000      |      0.000       |      0.000       | [-2.153, 0.359] |      87.266     |    3.4e+38    |
+|   46  | L_thumb_proximal_pitch_joint |  1.7e+04  | 558.480 |  0.000   |      0.000      |      0.000       |      0.000       |  [0.000, 1.220] |      87.266     |    2.0e+03    |
+|   47  | R_index_intermediate_joint   |   0.000   |  0.000  |  0.000   |      0.000      |      0.000       |      0.000       | [-2.125, 0.354] |      87.266     |    3.4e+38    |
+|   48  | R_middle_intermediate_joint  |   0.000   |  0.000  |  0.000   |      0.000      |      0.000       |      0.000       | [-2.131, 0.355] |      87.266     |    3.4e+38    |
+|   49  | R_pinky_intermediate_joint   |   0.000   |  0.000  |  0.000   |      0.000      |      0.000       |      0.000       | [-2.127, 0.355] |      87.266     |    3.4e+38    |
+|   50  | R_ring_intermediate_joint    |   0.000   |  0.000  |  0.000   |      0.000      |      0.000       |      0.000       | [-2.153, 0.359] |      87.266     |    3.4e+38    |
+|   51  | R_thumb_proximal_pitch_joint |  1.7e+04  | 558.480 |  0.000   |      0.000      |      0.000       |      0.000       |  [0.000, 1.220] |      87.266     |    2.0e+03    |
+|   52  | L_thumb_distal_joint         |   0.000   |  0.000  |  0.000   |      0.000      |      0.000       |      0.000       | [-0.238, 1.426] |      87.266     |    3.4e+38    |
+|   53  | R_thumb_distal_joint         |   0.000   |  0.000  |  0.000   |      0.000      |      0.000       |      0.000       | [-0.238, 1.426] |      87.266     |    3.4e+38    |
++-------+------------------------------+-----------+---------+----------+-----------------+------------------+------------------+-----------------+-----------------+---------------+
+[INFO]: Time taken for simulation start Last: 0.247410 s, Mean: 0.247410 s, Std: 0.000000 s, N: 1
+[INFO] Command Manager:  <CommandManager> contains 0 active terms.
++------------------------+
+|  Active Command Terms  |
++--------+-------+-------+
+| Index  | Name  |  Type |
++--------+-------+-------+
++--------+-------+-------+
+
+[INFO] Event Manager:  <EventManager> contains 1 active terms.
++-----------------------------------+
+| Active Event Terms in Mode: 'reset' |
++-----------+-----------------------+
+|   Index   | Name                  |
++-----------+-----------------------+
+|     0     | reset_all             |
+|     1     | reset_object          |
++-----------+-----------------------+
+
+[INFO] Recorder Manager:  <RecorderManager> contains 5 active terms.
++--------------------------------------------------+
+|              Active Recorder Terms               |
++-------+------------------------------------------+
+| Index | Name                                     |
++-------+------------------------------------------+
+|   0   | record_initial_state                     |
+|   1   | record_post_step_states                  |
+|   2   | record_pre_step_actions                  |
+|   3   | record_pre_step_flat_policy_observations |
+|   4   | record_post_step_processed_actions       |
++-------+------------------------------------------+
+
+[INFO] Action Manager:  <ActionManager> contains 1 active terms.
++-----------------------------------+
+|  Active Action Terms (shape: 36)  |
++-------+---------------+-----------+
+| Index | Name          | Dimension |
++-------+---------------+-----------+
+|   0   | upper_body_ik |        36 |
++-------+---------------+-----------+
+
+[INFO] Observation Manager: <ObservationManager> contains 1 groups.
++-----------------------------------------------+
+|  Active Observation Terms in Group: 'policy'  |
++---------+------------------------+------------+
+|  Index  | Name                   |   Shape    |
++---------+------------------------+------------+
+|    0    | actions                |   (36,)    |
+|    1    | robot_joint_pos        |   (54,)    |
+|    2    | robot_root_pos         |    (3,)    |
+|    3    | robot_root_rot         |    (4,)    |
+|    4    | object_pos             |    (3,)    |
+|    5    | object_rot             |    (4,)    |
+|    6    | robot_links_state      |  (55, 13)  |
+|    7    | left_eef_pos           |    (3,)    |
+|    8    | left_eef_quat          |    (4,)    |
+|    9    | right_eef_pos          |    (3,)    |
+|    10   | right_eef_quat         |    (4,)    |
+|    11   | hand_joint_state       |   (22,)    |
+|    12   | head_joint_state       |    (3,)    |
+|    13   | object                 |   (13,)    |
++---------+------------------------+------------+
+
+[INFO] Termination Manager:  <TerminationManager> contains 0 active terms.
++----------------------------+
+|  Active Termination Terms  |
++--------+-------+-----------+
+| Index  | Name  |  Time Out |
++--------+-------+-----------+
++--------+-------+-----------+
+
+[INFO] Reward Manager:  <RewardManager> contains 0 active terms.
++-----------------------+
+|  Active Reward Terms  |
++-------+------+--------+
+| Index | Name | Weight |
++-------+------+--------+
++-------+------+--------+
+
+[INFO] Curriculum Manager:  <CurriculumManager> contains 0 active terms.
++----------------------+
+| Active Curriculum Terms |
++-----------+----------+
+|   Index   | Name     |
++-----------+----------+
++-----------+----------+
+
+[INFO]: Completed setting up the environment...
+Loaded 1 to datagen info pool
+
+************************************************** [K
+4/5 (80.0%) successful demos generated by mimic[K
+************************************************** [K
+
+************************************************** [K
+8/10 (80.0%) successful demos generated by mimic[K
+************************************************** [K
+
+************************************************** [K
+12/15 (80.0%) successful demos generated by mimic[K
+************************************************** [K
+
+************************************************** [K
+17/20 (85.0%) successful demos generated by mimic[K
+************************************************** [K

@@ -1,0 +1,29 @@
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L0_Oheavy_J0_annotated.hdf5; boundaries: {'demo_0': 61, 'demo_1': 65}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L0_Oheavy_J15_annotated.hdf5; boundaries: {'demo_0': 63, 'demo_1': 62}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L0_Oheavy_J5_annotated.hdf5; boundaries: {'demo_0': 63, 'demo_1': 61}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L0_Onone_J0_annotated.hdf5; boundaries: {'demo_0': 61, 'demo_1': 61}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L0_Onone_J15_annotated.hdf5; boundaries: {'demo_0': 62, 'demo_1': 63}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L0_Onone_J5_annotated.hdf5; boundaries: {'demo_0': 62, 'demo_1': 62}
+annotated 3 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L0_Opartial_J0_annotated.hdf5; boundaries: {'demo_0': 61, 'demo_1': 63, 'demo_2': 63}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L0_Opartial_J15_annotated.hdf5; boundaries: {'demo_0': 63, 'demo_1': 63}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L0_Opartial_J5_annotated.hdf5; boundaries: {'demo_0': 61, 'demo_1': 63}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L2_Oheavy_J0_annotated.hdf5; boundaries: {'demo_0': 62, 'demo_1': 64}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L2_Oheavy_J15_annotated.hdf5; boundaries: {'demo_0': 62, 'demo_1': 63}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L2_Oheavy_J5_annotated.hdf5; boundaries: {'demo_0': 64, 'demo_1': 63}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L2_Onone_J0_annotated.hdf5; boundaries: {'demo_0': 61, 'demo_1': 62}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L2_Onone_J15_annotated.hdf5; boundaries: {'demo_0': 62, 'demo_1': 63}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L2_Onone_J5_annotated.hdf5; boundaries: {'demo_0': 62, 'demo_1': 62}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L2_Opartial_J0_annotated.hdf5; boundaries: {'demo_0': 61, 'demo_1': 64}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L2_Opartial_J15_annotated.hdf5; boundaries: {'demo_0': 63, 'demo_1': 63}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L2_Opartial_J5_annotated.hdf5; boundaries: {'demo_0': 63, 'demo_1': 63}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L5_Oheavy_J0_annotated.hdf5; boundaries: {'demo_0': 65, 'demo_1': 64}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L5_Oheavy_J15_annotated.hdf5; boundaries: {'demo_0': 64, 'demo_1': 62}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L5_Oheavy_J5_annotated.hdf5; boundaries: {'demo_0': 64, 'demo_1': 64}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L5_Onone_J0_annotated.hdf5; boundaries: {'demo_0': 61, 'demo_1': 64}
+annotated 3 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L5_Onone_J15_annotated.hdf5; boundaries: {'demo_0': 62, 'demo_1': 63, 'demo_2': 63}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L5_Onone_J5_annotated.hdf5; boundaries: {'demo_0': 63, 'demo_1': 60}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L5_Opartial_J0_annotated.hdf5; boundaries: {'demo_0': 64, 'demo_1': 64}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L5_Opartial_J15_annotated.hdf5; boundaries: {'demo_0': 64, 'demo_1': 62}
+annotated 2 demos, skipped 0 (object never lifted) -> /workspace/isaaclab/datasets/v3/pool/L5_Opartial_J5_annotated.hdf5; boundaries: {'demo_0': 57, 'demo_1': 64}
+56 seeds from 27 conditions -> /workspace/teleopq/out_v3/scores.csv
+max episode-match distance (mm): 0.0
